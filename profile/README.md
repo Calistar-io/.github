@@ -27,20 +27,21 @@ building on Stellar, without collecting personal data. It answers the Stellar Co
 3. **One shared view**: each project sees its own data only. Designated SCF operators compare
    the same standardized metrics across all enrolled projects.
 
-Calistar is at the **proposal stage**. The landing page and a draft of the documentation are
-online. The service itself is not built yet, and enrollment is not open.
+Calistar is at the **proposal stage**. The landing page and the documentation are online, and a
+proof of concept runs in the repository's CI. No service is hosted yet, and enrollment is not open.
 
 ## Repositories
 
 | Repo                                                  | What it is                                                                                                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**calistar**](https://github.com/Calistar-io/calistar) | The monorepo. Today: the landing page and the documentation site. Planned: the console, the gateway, the tracker and the infrastructure as code. |
+| [**calistar**](https://github.com/Calistar-io/calistar) | The monorepo. Today: the landing page, the documentation, and a proof of concept (a first gateway, the path normalizer, a local stack and its tests). Planned: the console, the tracker build and the infrastructure as code. |
 
 Calistar's code is released under the [Apache License 2.0](https://github.com/Calistar-io/calistar/blob/main/LICENSE).
 
 ## Learn more
 
 - [Architecture](https://calistar.io/docs/architecture/): the components and how data travels through them
+- [Proof of concept](https://calistar.io/docs/architecture/proof-of-concept): what was built and tested, and what it showed
 - [For builders](https://calistar.io/docs/tenants/): what a project gets, what it adds to its site and its API
 - [For operators](https://calistar.io/docs/operators/): the global view, running the service, handover
 - [Security](https://calistar.io/docs/security/): tenant isolation, protection against inflated numbers, supply chain
