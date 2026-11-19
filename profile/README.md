@@ -36,7 +36,7 @@ online. The service itself is not built yet, and enrollment is not open.
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**calistar**](https://github.com/Calistar-io/calistar) | The monorepo. Today: the landing page and the documentation site. Planned: the console, the gateway, the tracker and the infrastructure as code. |
 
-All code is to be released under an OSI-approved open-source license. The license is not chosen yet.
+Calistar's code is released under the [Apache License 2.0](https://github.com/Calistar-io/calistar/blob/main/LICENSE).
 
 ## Learn more
 
